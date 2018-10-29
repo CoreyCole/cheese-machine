@@ -1,0 +1,20 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "cheese machine",
+            "intents": [
+                {
+                    "name": "PriceIntent",
+                    "samples": [
+                        "price",
+                        "cost",
+                        "money",
+                        "how much it costs",
+                        "what is the price"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
